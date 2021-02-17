@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 1- Pandas Documentation
 https://pandas.pydata.org/
 2- Matplotlib Docuementation
+=======
+1- Pandas Documentation
+https://pandas.pydata.org/
+2- Matplotlib Docuementation
+>>>>>>> 3aa26928e55a2a6b37b78cb204659c5d65f3f5e4
 https://matplotlib.org/
